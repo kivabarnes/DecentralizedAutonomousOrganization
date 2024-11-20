@@ -5,3 +5,5 @@ G
 contracts/dao-core.clar,b/c/bcda9195d0fccfbb4b41d5d99240281c812cceb6
 F
 tests/dao-core.test.ts,d/8/d815a26030ed4467798867fb340919efaa24dac0
+N
+contracts/proposal-voting.clar,0/6/062f66793419318e225d26de0effd7da052ec9c0
