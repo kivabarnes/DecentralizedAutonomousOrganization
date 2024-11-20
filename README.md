@@ -1,2 +1,2 @@
 # DecentralizedAutonomousOrganization
- Voting mechanisms, Proposal submission and execution and Treasury management
+Voting mechanisms, Proposal submission and execution and Treasury management
