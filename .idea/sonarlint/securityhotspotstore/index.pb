@@ -7,3 +7,5 @@ F
 tests/dao-core.test.ts,d/8/d815a26030ed4467798867fb340919efaa24dac0
 N
 contracts/proposal-voting.clar,0/6/062f66793419318e225d26de0effd7da052ec9c0
+M
+tests/proposal-voting.test.ts,d/3/d39a019ee6f77c74df327fcdd2b3ff17836f2148
