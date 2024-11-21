@@ -1,8 +1,4 @@
-;; contracts/dao-core.clar
-
 ;; Define constants
-(define-constant contract-owner tx-sender)
-(define-constant err-not-authorized (err u100))
 (define-constant err-already-member (err u101))
 (define-constant err-not-member (err u102))
 
@@ -37,3 +33,4 @@
 
 (define-read-only (get-total-members)
   (var-get total-members))
+
